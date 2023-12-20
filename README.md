@@ -27,11 +27,9 @@ Hi, I'm Vivian Zhuo. As a software engineering student with a background in arch
     <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
     <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
     <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" />
-    <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" />
-    <img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" /><br>
+    <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" /><br>
     
 </div>
-<br>
 <br>
 
 #
