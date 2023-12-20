@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,  I'm Weiwei(Vivian) Zhuo</h1>
 <h3 align="center">A passionate Software Engineer Intern, Creative Architect and Designer</h3>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif" height="240" />
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhuoww&label=Profile%20views&color=0e75b6&style=flat" alt="zhuoww" /> </p>
 
 - 🔭 I’m currently studying at **Northeastern University**
 - 🌱 I’m currently learning Microservices
@@ -56,5 +56,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhuoww&show_icons=true&locale=en&layout=compact" alt="zhuoww" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhuoww&show_icons=true&locale=en" alt="zhuoww" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhuoww&" alt="zhuoww" /></p>
 
 [linkedin]: https://www.linkedin.com/in/weiwei-zhuo23/
