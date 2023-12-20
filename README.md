@@ -11,7 +11,7 @@ Hi, I'm Vivian Zhuo. As a software engineering student with a background in arch
 
 ### 💻 Languages and Tools
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex">
     <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
