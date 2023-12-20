@@ -1,4 +1,4 @@
-#Hi 👋, I'm Vivian Zhuo
+# Hi 👋, I'm Vivian Zhuo
 
 **`Software Engineer Intern/Architect/Designer`**
 
@@ -27,13 +27,11 @@ Hi, I'm Vivian Zhuo. As a software engineering student with a background in arch
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <br />
 
 ### 📺 Projects
 
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+<img src="https://github.com/zhuoww/web102_prework/blob/main/website_walkthrough.gif?raw=true" width="512" >
 
 <!--
 **zhuoww/zhuoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
