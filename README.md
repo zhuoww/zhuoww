@@ -7,7 +7,7 @@ Hi, I'm Vivian Zhuo. As a software engineering student with a background in arch
 - 🔭 I’m currently studying at **Northeastern University**
 - 📫 How to reach me **zhuoww1008@gmail.com**
 
-#
+---
 
 ### 🧰 Languages and Tools
 
@@ -27,7 +27,7 @@ Hi, I'm Vivian Zhuo. As a software engineering student with a background in arch
     <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
-#
+---
 
 ### 📺 Projects
 
