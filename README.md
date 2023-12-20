@@ -5,11 +5,10 @@
 Hi, I'm Vivian Zhuo. As a software engineering student with a background in architecture, I'm proficient in Java, Python, JavaScript, and HTML/CSS, and have strong knowledge of algorithms, data structures, and OOP principles. These diverse experiences have equipped me with creativity, abstract and analytical thinking, and strong interpersonal skills, enabling me to develop innovative solutions for ambiguous problems. I'm eager to contribute expertise at Tech industry, shaping tomorrow with curiosity-driven minds!
 
 - 🔭 I’m currently studying at **Northeastern University**
-  
 - 📫 How to reach me **zhuoww1008@gmail.com**
 
 #
-  
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -31,21 +30,6 @@ Hi, I'm Vivian Zhuo. As a software engineering student with a background in arch
 ### 📺 Projects
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/zhuoww/zhuoww/blob/main/traveling%20web%20app.gif?raw=true" width="350">
-    <img src="https://github.com/zhuoww/web102_prework/blob/main/website_walkthrough.gif?raw=true" width="350">
+    <img src="https://github.com/zhuoww/zhuoww/blob/main/traveling%20web%20app.gif?raw=true" width="250" style="border-radius: 5px; animation-duration: 4093ms;">
+    <img src="https://github.com/zhuoww/web102_prework/blob/main/website_walkthrough.gif?raw=true" width="250" style="border-radius: 5px; animation-duration: 4093ms;">
 </div>
-
-<!--
-**zhuoww/zhuoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
