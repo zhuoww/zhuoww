@@ -30,6 +30,6 @@ Hi, I'm Vivian Zhuo. As a software engineering student with a background in arch
 ### 📺 Projects
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/zhuoww/zhuoww/blob/main/traveling%20web%20app.gif?raw=true" width="250" style="border-radius: 5px; animation-duration: 4093ms;">
-    <img src="https://github.com/zhuoww/web102_prework/blob/main/website_walkthrough.gif?raw=true" width="250" style="border-radius: 5px; animation-duration: 4093ms;">
+    <img src="https://github.com/zhuoww/zhuoww/blob/main/traveling%20web%20app.gif?raw=true" height="100" style="border-radius: 5px; animation-duration: 4093ms;">
+    <img src="https://github.com/zhuoww/web102_prework/blob/main/website_walkthrough.gif?raw=true" height="100" style="border-radius: 5px; animation-duration: 4093ms;">
 </div>
