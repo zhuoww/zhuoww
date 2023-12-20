@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,  I'm Weiwei(Vivian) Zhuo</h1>
 <h3 align="center">A passionate Software Engineer Intern, Creative Architect and Designer</h3>
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif" height="320" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif" height="240" />
 
 
 - 🔭 I’m currently studying at **Northeastern University**
