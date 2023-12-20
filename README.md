@@ -1,11 +1,22 @@
 # Hi 👋, I'm Vivian Zhuo 🥳
 
-**`Software Engineer Intern/Creative Architect/Designer`**
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
+## I'm a Software Engineer Intern, Creative Architect and Designer!!
+- 🔭 I’m currently studying at **Northeastern University**
+- 🌱 I’m currently learning Microservices
+- 👯 I’m looking to collaborate on open source
+- 😄 Pronouns: She/Her
+- 📫 How to reach me **zhuoww1008@gmail.com**
+- ⚡ Fun fact: I love reading, drawing and hiking~
 
 Hi, I'm Vivian Zhuo. As a software engineering student with a background in architecture, I'm proficient in Java, Python, JavaScript, and HTML/CSS, and have strong knowledge of algorithms, data structures, and OOP principles. These diverse experiences have equipped me with creativity, abstract and analytical thinking, and strong interpersonal skills, enabling me to develop innovative solutions for ambiguous problems. I'm eager to contribute expertise at Tech industry, shaping tomorrow with curiosity-driven minds!
 
-- 🔭 I’m currently studying at **Northeastern University**
-- 📫 How to reach me **zhuoww1008@gmail.com**
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="Software Engineer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 #
 
@@ -31,6 +42,7 @@ Hi, I'm Vivian Zhuo. As a software engineering student with a background in arch
     
 </div>
 <br>
+<br>
 
 #
 
@@ -41,4 +53,6 @@ Hi, I'm Vivian Zhuo. As a software engineering student with a background in arch
     <img src="https://github.com/zhuoww/zhuoww/blob/main/FoodOrderingSystem.gif?raw=true" height="200">
 </div>
 <br>
+
+[linkedin]: https://www.linkedin.com/in/weiwei-zhuo23/
 
