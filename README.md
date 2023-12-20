@@ -30,10 +30,14 @@ Hi, I'm Vivian Zhuo. As a software engineering student with a background in arch
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <br />
 
+---
+
 ### 📺 Projects
 
-<img src="https://github.com/zhuoww/zhuoww/blob/main/traveling%20web%20app.gif?raw=true" width="350" >
-<img src="https://github.com/zhuoww/web102_prework/blob/main/website_walkthrough.gif?raw=true" width="350" >
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/zhuoww/zhuoww/blob/main/traveling%20web%20app.gif?raw=true" width="350">
+    <img src="https://github.com/zhuoww/web102_prework/blob/main/website_walkthrough.gif?raw=true" width="350">
+</div>
 
 <!--
 **zhuoww/zhuoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
