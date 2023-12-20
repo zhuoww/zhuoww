@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vivian Zhuo 🥳
 
-**`Software Engineer Intern/Architect/Designer`**
+**`Software Engineer Intern/Creative Architect/Designer`**
 
 Hi, I'm Vivian Zhuo. As a software engineering student with a background in architecture, I'm proficient in Java, Python, JavaScript, and HTML/CSS, and have strong knowledge of algorithms, data structures, and OOP principles. These diverse experiences have equipped me with creativity, abstract and analytical thinking, and strong interpersonal skills, enabling me to develop innovative solutions for ambiguous problems. I'm eager to contribute expertise at Tech industry, shaping tomorrow with curiosity-driven minds!
 
