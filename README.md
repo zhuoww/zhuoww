@@ -51,4 +51,10 @@
 </div>
 <br>
 
+#
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhuoww&show_icons=true&locale=en&layout=compact" alt="zhuoww" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhuoww&show_icons=true&locale=en" alt="zhuoww" /></p>
+
 [linkedin]: https://www.linkedin.com/in/weiwei-zhuo23/
