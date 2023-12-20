@@ -8,6 +8,7 @@ Hi, I'm Vivian Zhuo. As a software engineering student with a background in arch
   
 - 📫 How to reach me **zhuoww1008@gmail.com**
 
+***
   
 ### 🧰 Languages and Tools
 
