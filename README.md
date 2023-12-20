@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋,  I'm Weiwei(Vivian) Zhuo</h1>
 <h3 align="center">A passionate Software Engineer Intern, Creative Architect and Designer</h3>
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="320" />
 
 - 🔭 I’m currently studying at **Northeastern University**
 - 🌱 I’m currently learning Microservices
