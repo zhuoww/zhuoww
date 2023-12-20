@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Weiwei(Vivian) Zhuo</h1>
+<h1 align="center">Hi 👋,  I'm Weiwei(Vivian) Zhuo</h1>
 <h3 align="center">A passionate Software Engineer Intern, Creative Architect and Designer</h3>
-
-# 
 
 - 🔭 I’m currently studying at **Northeastern University**
 - 🌱 I’m currently learning Microservices
@@ -9,8 +7,6 @@
 - 😄 Pronouns: She/Her
 - 📫 How to reach me **zhuoww1008@gmail.com**
 - ⚡ Fun fact: I love reading, drawing and hiking~
-
-Hi, I'm Vivian Zhuo. As a software engineering student with a background in architecture, I'm proficient in Java, Python, JavaScript, and HTML/CSS, and have strong knowledge of algorithms, data structures, and OOP principles. These diverse experiences have equipped me with creativity, abstract and analytical thinking, and strong interpersonal skills, enabling me to develop innovative solutions for ambiguous problems. I'm eager to contribute expertise at Tech industry, shaping tomorrow with curiosity-driven minds!
 
 ### Connect with me:
 [<img align="left" alt="Software Engineer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
