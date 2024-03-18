@@ -46,11 +46,11 @@
 ### 🏆 Software Engineering Projects
 
 <div style="display: flex; justify-content: space-between; margin-right: 10px">
-    <img src="https://github.com/zhuoww/zhuoww/blob/main/traveling%20web%20app.gif?raw=true" width="500">
-    <img src="https://github.com/zhuoww/zhuoww/blob/main/FoodOrderingSystem.gif?raw=true" width="500">
+    <img src="https://github.com/zhuoww/zhuoww/blob/main/traveling%20web%20app.gif?raw=true" width="400">
+    <img src="https://github.com/zhuoww/zhuoww/blob/main/FoodOrderingSystem.gif?raw=true" width="400">
     <br>
-    <img src="https://github.com/zhuoww/CodePath_Web_Project2_Flashcards/blob/main/lab3.gif?raw=true" width="500">
-    <img src="https://github.com/zhuoww/CodePath_Web_Project4_Veni_Vici/blob/main/project4.gif?raw=true" width="500">
+    <img src="https://github.com/zhuoww/CodePath_Web_Project2_Flashcards/blob/main/lab3.gif?raw=true" width="400">
+    <img src="https://github.com/zhuoww/CodePath_Web_Project4_Veni_Vici/blob/main/project4.gif?raw=true" width="400">
     <br>
 </div>
 <br>
