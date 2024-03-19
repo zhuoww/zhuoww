@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhuoww&label=Profile%20views&color=0e75b6&style=flat" alt="zhuoww" /> </p>
 
 - 🔭 I’m currently studying at **Northeastern University**
-- 🌱 I’m currently learning Microservices
-- 👯 I’m looking to collaborate on open source
 - 😄 Pronouns: She/Her
 - 📫 How to reach me **zhuoww1008@gmail.com**
 - ⚡ Fun fact: I love reading, drawing and hiking~
