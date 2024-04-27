@@ -6,7 +6,7 @@
 - 🔭 I’m currently studying at **Northeastern University**
 - 😄 Pronouns: She/Her
 - 📫 How to reach me **zhuoww1008@gmail.com**
-- ⚡ Fun fact: I love reading, drawing and hiking~
+- ⚡ Fun fact: I am a big fan of "One Piece"~
 
 ### Connect with me:
 [<img align="left" alt="Software Engineer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
