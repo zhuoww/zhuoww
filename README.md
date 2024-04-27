@@ -45,9 +45,10 @@
 
 <div style="display: flex; justify-content: space-between; margin-right: 10px">
     <figure>
+        <figcaption><strong>Coffee Community</strong></figcaption>
         <img src="https://github.com/zhuoww/CodePath_Web_FinalProject/blob/main/finalproject.gif?raw=true" width="">
-        <figcaption>Coffee Community</figcaption>
     </figure>
+    <br>
     <img src="https://github.com/zhuoww/zhuoww/blob/main/traveling%20web%20app.gif?raw=true" width="">
     <br>
     <img src="https://github.com/zhuoww/zhuoww/blob/main/FoodOrderingSystem.gif?raw=true" width="">
