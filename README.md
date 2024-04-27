@@ -49,13 +49,25 @@
         <img src="https://github.com/zhuoww/CodePath_Web_FinalProject/blob/main/finalproject.gif?raw=true" width="">
     </figure>
     <br>
-    <img src="https://github.com/zhuoww/zhuoww/blob/main/traveling%20web%20app.gif?raw=true" width="">
+    <figure>
+        <figcaption><strong>Traveling Web Application</strong></figcaption>
+        <img src="https://github.com/zhuoww/zhuoww/blob/main/traveling%20web%20app.gif?raw=true" width="">
+    </figure>
     <br>
-    <img src="https://github.com/zhuoww/zhuoww/blob/main/FoodOrderingSystem.gif?raw=true" width="">
+    <figure>
+        <figcaption><strong>Food Ordering System</strong></figcaption>
+        <img src="https://github.com/zhuoww/zhuoww/blob/main/FoodOrderingSystem.gif?raw=true" width="">
+    </figure>
     <br>
-    <img src="https://github.com/zhuoww/CodePath_Web_Project2_Flashcards/blob/main/lab3.gif?raw=true" width="">
+    <figure>
+        <figcaption><strong>Flashcards</strong></figcaption>
+        <img src="https://github.com/zhuoww/CodePath_Web_Project2_Flashcards/blob/main/lab3.gif?raw=true" width="">
+    </figure>
     <br>
-    <img src="https://github.com/zhuoww/CodePath_Web_Project4_Veni_Vici/blob/main/project4.gif?raw=true" width="">
+    <figure>
+        <figcaption><strong>Veni Vici</strong></figcaption>
+        <img src="https://github.com/zhuoww/CodePath_Web_Project4_Veni_Vici/blob/main/project4.gif?raw=true" width="">
+    </figure>
     <br>
 </div>
 <br>
