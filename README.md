@@ -6,6 +6,7 @@
 - 🔭 I’m currently studying at **Northeastern University**
 - 😄 Pronouns: She/Her
 - 📫 How to reach me **zhuoww1008@gmail.com**
+- 🌟 Passionate about **Web Development**
 - ⚡ Fun fact: I am a big fan of "One Piece"~
 
 ### Connect with me:
