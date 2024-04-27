@@ -44,6 +44,8 @@
 ### 🏆 Software Engineering Projects
 
 <div style="display: flex; justify-content: space-between; margin-right: 10px">
+    <img src="https://github.com/zhuoww/CodePath_Web_FinalProject/blob/main/finalproject.gif?raw=true" width="600">
+    <br>
     <img src="https://github.com/zhuoww/zhuoww/blob/main/traveling%20web%20app.gif?raw=true" width="600">
     <br>
     <img src="https://github.com/zhuoww/zhuoww/blob/main/FoodOrderingSystem.gif?raw=true" width="600">
